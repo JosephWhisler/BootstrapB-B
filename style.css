@@ -1,3 +1,17 @@
+.card {
+  margin-left: 1px;
+  margin-right: 1px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
-
+  
+#carouselExampleCaptions {
+    max-width: 800px; 
+    margin: auto; 
+}
+.carousel-item img {
+    max-width: 100%; 
+    height: auto; 
+}
 
