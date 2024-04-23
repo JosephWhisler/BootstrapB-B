@@ -15,3 +15,11 @@
     height: auto; 
 }
 
+.navbar-nav {
+    background-color: gray;
+    color: aliceblue;
+}
+
+.container-fluid {
+    background-color: rgb(151, 151, 151);
+}
